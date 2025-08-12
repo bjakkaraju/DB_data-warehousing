@@ -602,6 +602,6 @@ At this stage, you have:
 
 This foundational work prepares your environment for efficient collaboration, governance, and analytics. Your workspace users now have the structure, data, and permissions they need to begin their own analysis.
 
-Now, it's time to shift perspectives and see how the [**User POV**](insert github notebook for User POV) interacts with the system you just set up.
+Now, it's time to shift perspectives and see how the [**User POV**](https://github.com/thatgirlpearl01/data-warehousing/edit/main/user.md) interacts with the system you just set up.
 
 Let’s move on!
