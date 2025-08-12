@@ -271,7 +271,7 @@ In Unity Catalog, a **volume** is designed to provide governance over **non-tabu
 > **Important Context for This Lab:**
 > In a real-world production environment, customers typically ingest or stream data into Databricks from their own cloud storage (e.g., S3 buckets or ADLS). However, to simplify setup and ensure consistent access for all participants, especially since not all users have cloud credentials or admin privileges, we will **create a volume** that you’ll use in the next part of this workshop.
 
-1. Go to [this github link](insert github link) and download all three files (airports.csv, flights.csv and lookupcodes.csv) to your computer.
+1. Click each of these and download all three files [airports.csv](https://github.com/thatgirlpearl01/data-warehousing/blob/main/airports.csv), [flights.csv](https://github.com/thatgirlpearl01/data-warehousing/releases/tag/flights) and [lookupcodes.csv](https://github.com/thatgirlpearl01/data-warehousing/blob/main/lookupcodes.csv) to your computer.
 
 2. Then create a volume in the schema you created and title it **raw_airline_files**
 
