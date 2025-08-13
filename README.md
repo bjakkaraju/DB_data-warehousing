@@ -53,3 +53,5 @@ From this repository, download:
 Follow step-by-step instructions in the admin.md file and then the user.md file
 
 Build your first data lakehouse!
+
+<img width="1087" height="612" alt="Image" src="https://github.com/user-attachments/assets/613e7078-870b-454e-95a6-d69df10673c1" />
