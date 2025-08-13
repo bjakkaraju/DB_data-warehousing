@@ -11,11 +11,10 @@ This workshop guide is broken up into 2 major sections:
 * Step 2: Create a schema/database and schema/database name
 * Step 3: Create a volume
 * Step 4: Create streaming tables
-* Step 5: Create materialized views
-* Step 6: Creating primary and foreign key constraints
-* Step 7: Viewing query history and query profile
-* Step 8: Creating AI-Generated documentation of data assets
-* Step 9: Setting permissions on data assets
+* Step 5: Create materialized views and pk/fk constraints
+* Step 6: Viewing query history and query profile
+* Step 7: Creating AI-Generated documentation of data assets
+* Step 8: Setting permissions on data assets
 
 # Part 2: Navigating Databricks SQL as a Workspace User
 * Step 1: Create an AI/BI Dashboard
